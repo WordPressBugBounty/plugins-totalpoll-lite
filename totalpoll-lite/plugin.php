@@ -2,15 +2,15 @@
 /*
  * Plugin Name: TotalPoll – Lite
  * Plugin URI: https://totalsuite.net/products/totalpoll/
- * Description: Yet another powerful poll plugin for WordPress.
- * Version: 4.11.0
+ * Description: TotalPoll is a responsive and customizable poll plugin that will help you create voting contest, competition, image poll, simple poll.
+ * Version: 4.12.0
  * Author: TotalSuite
  * Author URI: https://totalsuite.net/
  * Text Domain: totalpoll
  * Domain Path: languages
  * Requires at least: 4.8
  * Requires PHP: 5.6
- * Tested up to: 6.5.5
+ * Tested up to: 6.8.2
  */
 
 

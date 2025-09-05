@@ -1,10 +1,10 @@
-=== Poll | Vote | Contest - Best Poll Plugin for WordPress ===
+=== TotalPoll for Polls and Contests ===
 Contributors: totalsuite
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=2TUK8TNJMK4SL&lc=AE&item_name=MisqTech&item_number=WPORG&no_note=1&no_shipping=1¤cy_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Tags: vote, poll, contest, questionnaire, election, dilemma, image, polling, marketing, opinion, poll builder, create poll, custom poll, poll widget, poll archive, easy, intuitive, online poll, poll post, poll page, collect answers, choices, answers, question, rtl, shortcode, template, video, vote, widget, wp-polls, yop poll, feedback, poll form, single question survey, drag and drop, opinionstage, polldaddy, mobile friendly, mobile first, poll post type, results, contestant, flash poll, poll directory, statistics, logs, submissions, templates, extensions, extensible, limitations
 Requires at least: 4.6.0
 Requires PHP: 5.6
-Tested up to: 6.5.5
+Tested up to: 6.8.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
